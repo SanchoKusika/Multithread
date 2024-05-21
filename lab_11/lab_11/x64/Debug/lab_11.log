@@ -1,0 +1,9 @@
+﻿  lab_11.cpp
+C:\Users\SanchoKusika\source\repos\lab_11\lab_11\lab_11.cpp(52,6): error C2084: функция "void printThread(int,int)" уже имеет текст реализации
+  C:\Users\SanchoKusika\source\repos\lab_11\lab_11\lab_11.cpp(13,6):
+  см. предыдущее определение "printThread"
+  
+C:\Users\SanchoKusika\source\repos\lab_11\lab_11\lab_11.cpp(67,5): error C2084: функция "int main(void)" уже имеет текст реализации
+  C:\Users\SanchoKusika\source\repos\lab_11\lab_11\lab_11.cpp(24,5):
+  см. предыдущее определение "main"
+  
